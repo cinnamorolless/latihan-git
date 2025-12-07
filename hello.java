@@ -1,7 +1,7 @@
 // Program Hello World - Latihan Git
-// Commit kedua: tambah komentar
+// Ini adalah program Hello World
 public class hello {
     public static void main (String[] args) {
-        System.out.println("Hello World");
+        System.out.println("Hello this is keonho gf");
     }
 }
